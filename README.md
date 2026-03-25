@@ -9,5 +9,6 @@ _npm install_
 
 Run these commands in the terminal to test:
 
-cd my-app
-npm run dev
+_cd my-app_
+
+_npm run dev_
