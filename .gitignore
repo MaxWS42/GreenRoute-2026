@@ -1,0 +1,12 @@
+*.txt
+*.md
+!README.md
+*.vscode
+*.log
+npm-debug.log*
+__pycache__/
+*.db
+
+node_modules/
+venv/
+.venv/
