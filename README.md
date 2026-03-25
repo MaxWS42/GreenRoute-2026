@@ -2,13 +2,13 @@ This is a repo for the GreenRoute sustainable travel project, started for the Se
 
 Install requirements and dependencies with:
 
-_pip install -r requirements.txt_
+`pip install -r requirements.txt`
 
-_npm install_
+`npm install`
 
 
 Run these commands in the terminal to test:
 
-_cd my-app_
+`cd my-app`
 
-_npm run dev_
+`npm run dev`
