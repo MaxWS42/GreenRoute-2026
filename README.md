@@ -5,3 +5,9 @@ Install requirements and dependencies with:
 _pip install -r requirements.txt_
 
 _npm install_
+
+
+Run these commands in the terminal to test:
+
+cd my-app
+npm run dev
