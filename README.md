@@ -4,6 +4,8 @@ Install requirements and dependencies with:
 
 `pip install -r requirements.txt`
 
+`cd my-app`
+
 `npm install`
 
 
